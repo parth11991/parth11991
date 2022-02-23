@@ -1,4 +1,4 @@
-![Hi, I'm Parth Patel (3)](https://user-images.githubusercontent.com/37639594/121313307-8e573a00-c906-11eb-83aa-84811669fa02.gif)
+![Hi, I'm Parth Patel (3)]
 
 
 ### Contact me, I'm looking for new opportunities.
