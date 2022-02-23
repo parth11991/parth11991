@@ -20,14 +20,13 @@
 
 ![Profile views](https://gpvc.arturio.dev/parth11991)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parth11991&theme=yeblu)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parth11991&theme=yeblu)](https://github.com/parth11991)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=parth11991&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=parth11991&theme=nord)](https://github.com/parth11991)
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=parth11991&show_icons=true&theme=dracula)](https://github.com/parth11991)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=parth11991&show_icons=true&theme=dracula)](https://github.com/parth11991/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth11991&show_icons=true&layout=compact&theme=dracula)](https://github.com/parth11991/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth11991&show_icons=true&layout=compact&theme=dracula)](https://github.com/parth11991)
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,7 +35,8 @@
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-eed718?style=for-the-badge&logo=javascript&logoColor=ffffff) 
 ![ajax.js Badge](https://img.shields.io/badge/ajax.js-593D88?style=for-the-badge&logo=ajax.js&logoColor=white)
 ![Vue.js Badge](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=00c8ff)
-![PHP Badge](https://img.shields.io/badge/-php7.4-CB3837?style=for-the-badge&logo=php7.4&logoColor=white)
+![PHP Badge](https://img.shields.io/badge/-php7.4-CB3837?style=for-the-badge&logo=php&logoColor=white)
+![Python Badge](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=white)
 ![Wordpress Badge](https://img.shields.io/badge/wordpress-593D88?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Laravel Badge](https://img.shields.io/badge/-Laravel%208-3d1c17?style=for-the-badge&logo=Laravel&logoColor=CB3837)
 ![Codeigniter Badge](https://img.shields.io/badge/-codeigniter-3d1c17?style=for-the-badge&logo=codeigniter&logoColor=CB3837)
