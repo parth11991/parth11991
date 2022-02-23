@@ -9,7 +9,7 @@
 
 ### REACH ME ANYTIME
 
-[![Gmail Badge](https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:webdeveloper@gmail.com)](mailto:webdeveloper@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:webdeveloper.parth@gmail.com)](mailto::webdeveloper.parth@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-patel-80331313a/)](https://www.linkedin.com/in/parth-patel-80331313a/) 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/parth11991)](https://github.com/parth11991) 
 [![Skype Badge](https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=Skype&logoColor=white&link=https://join.skype.com/invite/SIbuIC6aCNMu)](https://join.skype.com/invite/SIbuIC6aCNMu) 
