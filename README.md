@@ -14,6 +14,7 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/parth11991)](https://github.com/parth11991) 
 [![Skype Badge](https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=Skype&logoColor=white&link=https://join.skype.com/invite/SIbuIC6aCNMu)](https://join.skype.com/invite/SIbuIC6aCNMu) 
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=for-the-badge&link=http://ziptechsolutions.co.uk/Parth-Patel/)](http://ziptechsolutions.co.uk/Parth-Patel/)
+[![Upwork Badge](https://img.shields.io/badge/Upwork-1CA910?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~013eb51722365c1752)](https://www.upwork.com/freelancers/~013eb51722365c1752)
 
 
 ## Some of my Github Stats
@@ -42,6 +43,7 @@
 ![Codeigniter Badge](https://img.shields.io/badge/-codeigniter-3d1c17?style=for-the-badge&logo=codeigniter&logoColor=CB3837)
 ![Sass Badge](https://img.shields.io/badge/-Sass-cd669a?style=for-the-badge&logo=sass&logoColor=ffffff)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![Machine%20Learning Badge](https://img.shields.io/badge/Machine%20Learning-00599C?style=for-the-badge&logo=ML&logoColor=white)
 ![Git Badge](http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF)
 ![Github Badge](http://img.shields.io/badge/-Github-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF)
 ![Sublime Text Badge](https://img.shields.io/badge/-Sublime%20Text-4b4b4b?style=for-the-badge&logo=Sublime%20Text&logoColor=ff9800)
