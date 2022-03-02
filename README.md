@@ -1,38 +1,46 @@
-## Keepthinking's PHP code assignments
+## :wave:Hello! Nice to have you here :love_you_gesture:
 
-Dear Candidate,
+<p> My name is Parth Patel, I am a sr. full stack developer. :man_technologist: I like to develope softwear product. I am open for full stack development role. I am a fast learner and like learning and trying out new things.</p>
 
-thank you for agreeing to take part in this test. This is to assess your current level and the more you do, the better.
+- 😄 Pronouns: He/his
+- ⚡ Fun fact:  Computer Engineering at Ahmedabad Institute of Technology
+- 🔭 I’m currently working as Lead full stack development at Onfuro
+- 🌱 I’m currently develope E-commerce business management products
 
-There are 5 questions/tasks, linked below - you should provide answers to all of them. Feel free to use any text editor you are used to, which allows you to run the code. On a Mac, I recommend a trial version of [CodeRunner](https://coderunnerapp.com/).
+### REACH ME ANYTIME
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 When you are finished, please email me your solutions.
 =======
+=======
+>>>>>>> parent of 2df5d1f... test code commit
 [![Gmail Badge](https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:webdeveloper.parth@gmail.com)](mailto::webdeveloper.parth@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-patel-80331313a/)](https://www.linkedin.com/in/parth-patel-80331313a/) 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/parth11991)](https://github.com/parth11991) 
 [![Skype Badge](https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=Skype&logoColor=white&link=https://join.skype.com/invite/SIbuIC6aCNMu)](https://join.skype.com/invite/SIbuIC6aCNMu) 
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=for-the-badge&link=http://ziptechsolutions.co.uk/Parth-Patel/)](http://ziptechsolutions.co.uk/Parth-Patel/)
+<<<<<<< HEAD
 >>>>>>> parent of a8ab7ff... Update README.md
+=======
+[![Upwork Badge](https://img.shields.io/badge/Upwork-1CA910?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~013eb51722365c1752)](https://www.upwork.com/freelancers/~013eb51722365c1752)
+>>>>>>> parent of 2df5d1f... test code commit
 
-Now the questions:
 
-- [Question 1](q1.md)
-- [Question 2](q2.md)
-- [Question 3](q3.md)
-- [Question 4](q4.md)
-- [Question 5](q5.md)
+## Some of my Github Stats
 
-I am really thankful for you to take this test and I look forward to your results.
+![Profile views](https://gpvc.arturio.dev/parth11991)
 
-With best regards
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parth11991&theme=yeblu)](https://github.com/parth11991)
 
-Cristiano Bianchi
+[![trophy](https://github-profile-trophy.vercel.app/?username=parth11991&theme=nord)](https://github.com/parth11991)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 Keepthinking
 =======
+=======
+>>>>>>> parent of 2df5d1f... test code commit
 [![Github stats](https://github-readme-stats.vercel.app/api?username=parth11991&show_icons=true&theme=dracula)](https://github.com/parth11991)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth11991&show_icons=true&layout=compact&theme=dracula)](https://github.com/parth11991)
@@ -51,9 +59,16 @@ Keepthinking
 ![Codeigniter Badge](https://img.shields.io/badge/-codeigniter-3d1c17?style=for-the-badge&logo=codeigniter&logoColor=CB3837)
 ![Sass Badge](https://img.shields.io/badge/-Sass-cd669a?style=for-the-badge&logo=sass&logoColor=ffffff)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+<<<<<<< HEAD
+=======
+![Machine%20Learning Badge](https://img.shields.io/badge/Machine%20Learning-00599C?style=for-the-badge&logo=ML&logoColor=white)
+>>>>>>> parent of 2df5d1f... test code commit
 ![Git Badge](http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF)
 ![Github Badge](http://img.shields.io/badge/-Github-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF)
 ![Sublime Text Badge](https://img.shields.io/badge/-Sublime%20Text-4b4b4b?style=for-the-badge&logo=Sublime%20Text&logoColor=ff9800)
 ![VC Badge](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![C%2B%2B Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<<<<<<< HEAD
 >>>>>>> parent of a8ab7ff... Update README.md
+=======
+>>>>>>> parent of 2df5d1f... test code commit
