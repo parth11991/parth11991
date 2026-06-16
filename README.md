@@ -131,6 +131,39 @@ Currently, I lead Laravel 12 and Vue 3 product development for multi-tenant SaaS
 
 ---
 
+## Project Delivery Approach
+
+I can take ownership from a blank idea, an early prototype, or an existing mid-stage project and move it toward a stable, production-ready product. My approach is practical: understand the business goal, audit the technical reality, design the right architecture, deliver in milestones, test properly, deploy safely, and keep improving after launch.
+
+```mermaid
+flowchart LR
+    A[New Project From Scratch] --> B[Discovery and Requirements]
+    M[Mid-Stage Project Takeover] --> N[Codebase and Business Audit]
+
+    B --> C[Product Scope and MVP Plan]
+    N --> O[Stability, Risk and Gap Review]
+
+    C --> D[Architecture and Database Design]
+    O --> D
+
+    D --> E[API, Backend and Frontend Delivery]
+    E --> F[Integrations and Automation]
+    F --> G[Testing, QA and Performance Review]
+    G --> H[CI/CD, Deployment and Monitoring]
+    H --> I[Final Product Launch]
+    I --> J[Feedback, Optimisation and Scale]
+```
+
+| Stage | What I Focus On |
+| --- | --- |
+| Discovery | Business goals, user flows, technical risks, integrations, and clear delivery priorities. |
+| Architecture | Laravel/Vue structure, database design, API boundaries, queues, permissions, and multi-tenant planning. |
+| Delivery | Backend, frontend, marketplace APIs, dashboards, reporting, automation, and clean milestone releases. |
+| Stabilisation | Bug fixing, refactoring, performance, security, testing, CI/CD, and production readiness. |
+| Launch & Scale | Deployment, monitoring, feedback cycles, optimisation, and long-term maintainability. |
+
+---
+
 ## Portfolio Links
 
 ### Active SaaS & eCommerce Platforms
@@ -193,10 +226,6 @@ Currently, I lead Laravel 12 and Vue 3 product development for multi-tenant SaaS
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parth11991&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parth11991&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub profile trophies" />
 </p>
 
 ---
