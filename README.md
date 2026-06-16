@@ -136,22 +136,22 @@ Currently, I lead Laravel 12 and Vue 3 product development for multi-tenant SaaS
 I can take ownership from a blank idea, an early prototype, or an existing mid-stage project and move it toward a stable, production-ready product. My approach is practical: understand the business goal, audit the technical reality, design the right architecture, deliver in milestones, test properly, deploy safely, and keep improving after launch.
 
 ```mermaid
-flowchart LR
-    A[New Project From Scratch] --> B[Discovery and Requirements]
-    M[Mid-Stage Project Takeover] --> N[Codebase and Business Audit]
+flowchart TB
+    S1[From Scratch] --> D1[Discovery]
+    S2[Mid-Project Takeover] --> A1[Code Audit]
 
-    B --> C[Product Scope and MVP Plan]
-    N --> O[Stability, Risk and Gap Review]
+    D1 --> P1[MVP Scope]
+    A1 --> R1[Risk Review]
 
-    C --> D[Architecture and Database Design]
-    O --> D
+    P1 --> C1[Architecture]
+    R1 --> C1
 
-    D --> E[API, Backend and Frontend Delivery]
-    E --> F[Integrations and Automation]
-    F --> G[Testing, QA and Performance Review]
-    G --> H[CI/CD, Deployment and Monitoring]
-    H --> I[Final Product Launch]
-    I --> J[Feedback, Optimisation and Scale]
+    C1 --> B1[Build]
+    B1 --> I1[Integrations]
+    I1 --> Q1[QA & Testing]
+    Q1 --> X1[Deploy]
+    X1 --> L1[Launch]
+    L1 --> O1[Optimise & Scale]
 ```
 
 | Stage | What I Focus On |
