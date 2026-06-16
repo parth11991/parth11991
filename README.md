@@ -53,38 +53,81 @@ Currently, I lead Laravel 12 and Vue 3 product development for multi-tenant SaaS
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Core PHP](https://img.shields.io/badge/Core_PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PrimeVue](https://img.shields.io/badge/PrimeVue-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
 
-### Backend, APIs & Marketplace
+### Backend, Architecture & APIs
 
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Multi-Tenant Architecture](https://img.shields.io/badge/Multi--Tenant_Architecture-0F766E?style=for-the-badge&logo=databricks&logoColor=white)
+![Queues](https://img.shields.io/badge/Queues_%26_Background_Jobs-6D28D9?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-2563EB?style=for-the-badge&logo=webhooks&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_%2F_SSO-111827?style=for-the-badge&logo=auth0&logoColor=white)
+![Payment Gateways](https://img.shields.io/badge/Payment_Gateways-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven_Architecture-0EA5E9?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### eCommerce, Marketplace & Advertising
+
 ![Amazon](https://img.shields.io/badge/Amazon_SP--API-FF9900?style=for-the-badge&logo=amazon&logoColor=black)
 ![eBay](https://img.shields.io/badge/eBay_API-E53238?style=for-the-badge&logo=ebay&logoColor=white)
+![Linnworks](https://img.shields.io/badge/Linnworks_API-1F2937?style=for-the-badge&logo=buffer&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_/_SSO-111827?style=for-the-badge&logo=auth0&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-2563EB?style=for-the-badge&logo=webhooks&logoColor=white)
+![Google Ads API](https://img.shields.io/badge/Google_Ads_API-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Amazon Ads API](https://img.shields.io/badge/Amazon_Ads_API-FF9900?style=for-the-badge&logo=amazon&logoColor=black)
+![Facebook API](https://img.shields.io/badge/Facebook_API-0866FF?style=for-the-badge&logo=facebook&logoColor=white)
 
-### Cloud, DevOps, Data & Testing
+### Data, AI & Automation
 
-![AWS](https://img.shields.io/badge/AWS_EC2_/_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_/_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Financial Engines](https://img.shields.io/badge/Financial_Calculation_Engines-14532D?style=for-the-badge&logo=calculator&logoColor=white)
+![P&L Reporting](https://img.shields.io/badge/P%26L_Reporting-166534?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![VAT & Fees](https://img.shields.io/badge/VAT_%2F_Fees_%2F_Profitability-15803D?style=for-the-badge&logo=cashapp&logoColor=white)
+![BI Dashboards](https://img.shields.io/badge/BI_Dashboards-0F172A?style=for-the-badge&logo=metabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n_Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-AI_Tooling-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white)
+
+### Cloud, DevOps & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS_EC2_%2F_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_%2F_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-111827?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Security Hardening](https://img.shields.io/badge/Security_Hardening-DC2626?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![SSL & DNS](https://img.shields.io/badge/SSL_%26_DNS-0284C7?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Production Deployments](https://img.shields.io/badge/Production_Deployments-4B5563?style=for-the-badge&logo=rocket&logoColor=white)
+
+### Database, Quality & Engineering Practices
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Query Optimisation](https://img.shields.io/badge/Query_Optimisation-1D4ED8?style=for-the-badge&logo=mysql&logoColor=white)
+![Multi-Tenant DB](https://img.shields.io/badge/Multi--Tenant_DB_Architecture-0F766E?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white)
 ![Pest](https://img.shields.io/badge/Pest_PHP-3E7BFA?style=for-the-badge&logo=php&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_/_Claude-AI_Tooling-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-16A34A?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-334155?style=for-the-badge&logo=codacy&logoColor=white)
+![Code Reviews](https://img.shields.io/badge/Code_Reviews-7C2D12?style=for-the-badge&logo=github&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0F172A?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-581C87?style=for-the-badge&logo=abstract&logoColor=white)
+![Team Mentoring](https://img.shields.io/badge/Team_Mentoring-065F46?style=for-the-badge&logo=readme&logoColor=white)
 
 ---
 
@@ -130,23 +173,30 @@ Currently, I lead Laravel 12 and Vue 3 product development for multi-tenant SaaS
 
 ---
 
-## GitHub Snapshot
+## Engineering Metrics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parth11991&style=for-the-badge&color=0F766E" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-SaaS%20Architecture-0F766E?style=for-the-badge&logo=laravel&logoColor=white" alt="SaaS Architecture" />
+  <img src="https://img.shields.io/badge/Experience-10%2B%20Years-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="10+ years experience" />
+  <img src="https://img.shields.io/badge/Role-Technical%20Lead-2563EB?style=for-the-badge&logo=teamspeak&logoColor=white" alt="Technical Lead" />
+  <img src="https://komarev.com/ghpvc/?username=parth11991&style=for-the-badge&color=0F766E&label=Profile%20Views" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=parth11991&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth11991&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=parth11991&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Parth%20Patel%20%7C%20GitHub%20Performance" alt="Parth Patel GitHub performance" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth11991&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=360&custom_title=Primary%20Engineering%20Languages" alt="Primary engineering languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth11991&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=parth11991&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=760" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parth11991&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parth11991&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parth11991&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub profile trophies" />
 </p>
 
 ---
