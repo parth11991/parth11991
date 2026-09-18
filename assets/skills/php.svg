@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="66" height="34" viewBox="0 0 66 34" role="img" aria-label="PHP">
+  <title>PHP</title>
+  <rect x="0.5" y="0.5" width="65" height="33" rx="9" fill="#151B2B" stroke="#C4B5FD" stroke-opacity="0.55"/>
+  <circle cx="16" cy="17" r="4" fill="#C4B5FD"/>
+  <text x="28" y="22" fill="#C4B5FD" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">PHP</text>
+</svg>

@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="122" height="34" viewBox="0 0 122 34" role="img" aria-label="TypeScript">
+  <title>TypeScript</title>
+  <rect x="0.5" y="0.5" width="121" height="33" rx="9" fill="#151B2B" stroke="#93C5FD" stroke-opacity="0.55"/>
+  <circle cx="16" cy="17" r="4" fill="#93C5FD"/>
+  <text x="28" y="22" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">TypeScript</text>
+</svg>

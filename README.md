@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="./assets/profile-header.svg" width="100%" alt="Parth Patel — Senior Full Stack Engineer and Technical Lead. Build thoughtfully. Ship confidently." />
 </p>
 
@@ -62,6 +62,21 @@ Warehouse pick and pack workflows covering fulfilment, tote handling, shipping l
 [Explore PackingWaves ↗](https://pickpackwave.com)
 
 ## My everyday toolkit
+
+<p>
+  <img src="./assets/skills/php.svg" alt="PHP" height="34" />
+  <img src="./assets/skills/laravel.svg" alt="Laravel 12" height="34" />
+  <img src="./assets/skills/vue.svg" alt="Vue 3" height="34" />
+  <img src="./assets/skills/typescript.svg" alt="TypeScript" height="34" />
+  <img src="./assets/skills/tailwind.svg" alt="Tailwind CSS" height="34" />
+  <img src="./assets/skills/mysql.svg" alt="MySQL" height="34" />
+  <img src="./assets/skills/redis.svg" alt="Redis" height="34" />
+  <img src="./assets/skills/api.svg" alt="REST APIs" height="34" />
+  <img src="./assets/skills/aws.svg" alt="AWS" height="34" />
+  <img src="./assets/skills/ci-cd.svg" alt="CI/CD" height="34" />
+  <img src="./assets/skills/n8n.svg" alt="n8n" height="34" />
+  <img src="./assets/skills/ai.svg" alt="AI Automation" height="34" />
+</p>
 
 | Area | Technologies & focus |
 | :--- | :--- |

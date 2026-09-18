@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="82" height="34" viewBox="0 0 82 34" role="img" aria-label="CI/CD">
+  <title>CI/CD</title>
+  <rect x="0.5" y="0.5" width="81" height="33" rx="9" fill="#151B2B" stroke="#86EFAC" stroke-opacity="0.55"/>
+  <circle cx="16" cy="17" r="4" fill="#86EFAC"/>
+  <text x="28" y="22" fill="#86EFAC" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">CI/CD</text>
+</svg>

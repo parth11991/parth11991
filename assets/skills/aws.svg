@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="66" height="34" viewBox="0 0 66 34" role="img" aria-label="AWS">
+  <title>AWS</title>
+  <rect x="0.5" y="0.5" width="65" height="33" rx="9" fill="#151B2B" stroke="#FCD34D" stroke-opacity="0.55"/>
+  <circle cx="16" cy="17" r="4" fill="#FCD34D"/>
+  <text x="28" y="22" fill="#FCD34D" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">AWS</text>
+</svg>
