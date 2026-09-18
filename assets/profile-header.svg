@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none">
+  <title>Parth Patel — Senior Full Stack Engineer and Technical Lead</title>
+  <desc>Build thoughtfully. Ship confidently. A dark banner with mint and lilac accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101827"/><stop offset="1" stop-color="#1D1933"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="60" y1="0" x2="1140" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9BF2D0"/><stop offset="1" stop-color="#C2AEFF"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="378" rx="24" fill="url(#bg)" stroke="#39374F" stroke-width="2"/>
+  <path d="M870 1V379M980 1V379M1090 1V379M800 95H1199M800 190H1199M800 285H1199" stroke="#C2AEFF" stroke-opacity=".07"/>
+  <circle cx="1050" cy="165" r="105" stroke="#C2AEFF" stroke-opacity=".18"/>
+  <circle cx="1050" cy="165" r="75" stroke="#9BF2D0" stroke-opacity=".2"/>
+  <path d="m1010 140-25 25 25 25m80-50 25 25-25 25m-27-64-26 78" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="60" y="65" fill="#9BF2D0" font-size="16" font-weight="600" letter-spacing="3">ENGINEER / BUILDER / TECH LEAD</text>
+    <text x="56" y="151" fill="#F6F5FF" font-size="68" font-weight="700" letter-spacing="-2">Parth Patel<tspan fill="#9BF2D0">.</tspan></text>
+    <text x="60" y="200" fill="#D6D1E7" font-size="25">Senior Full Stack Engineer &amp; Technical Lead</text>
+    <text x="60" y="261" fill="#F6F5FF" font-size="27" font-weight="600">Build thoughtfully. Ship confidently.</text>
+    <text x="60" y="320" fill="#A9B4C8" font-size="18" letter-spacing="1">SAAS PLATFORMS  /  COMMERCE  /  AUTOMATION</text>
+  </g>
+  <rect x="60" y="350" width="1080" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
